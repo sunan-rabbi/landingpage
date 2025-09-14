@@ -1,7 +1,8 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
+
 
 body{
     margin: 0;
@@ -180,4 +181,14 @@ body{
         justify-content: center;
         flex-wrap: wrap;
     }
+}
+
+.header {
+  background-color: lightblue;
+  text-align: center;
+  padding: 20px;
+}
+.header h1 {
+  font-size: 40px;
+  color: rgb(8, 8, 8);
 }
