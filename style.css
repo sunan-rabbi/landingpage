@@ -45,10 +45,6 @@ body{
     .footer-nav{ margin-top: 0.5rem; }
 }
 
-    font-family: 'Arial', sans-serif;
-    line-height: 1.6;
-}
-
 .hero {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     min-height: 100vh;
